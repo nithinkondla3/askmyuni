@@ -1,0 +1,267 @@
+Skip to Main Content
+Home
+Catalogue Link
+Handbook
+Mobile Logo
+Term
+
+Semester 1 - Quarter 1
+Year
+
+2026
+Master of Artificial Intelligence
+MC271
+Handbook
+MC271 - Master of Artificial Intelligence
+Overview
+Learning and Assessment
+Entry Requirements
+Pathways and Careers
+Plan Structure
+Student Resources
+Overview
+Purpose of the Program
+The Master of Artificial Intelligence program is designed for university graduates of a non-computing degree and/or recent industry experience in a non-computing field. Your background may range from having few computing skills, to having a partial or less "hands-on" software-oriented computer science background.
+This program provides breadth of high-level computing knowledge as well as depth in Artificial Intelligence (AI) and the design and implementation of AI Systems. We are in an era of rapid technological change which will increasingly see AI computer systems take over control and decision making in diverse areas and driving economic growth, public policy and corporate strategy. This program will prepare you for a career as an AI Professional in this emerging area. You will be able to apply advanced AI knowledge in a range of contexts for professional practice or scholarship and also as a pathway for further learning. Job titles for AI professionals are very diverse, for example: AI engineer, Machine Learning engineer, business intelligence developer, research scientist and web analyst.
+You will undertake a capstone course, either from the project or research streams of the program, respectively: COSC2777 Artificial Intelligence Postgraduate Project, or COSC2179 Minor Thesis / Project. The capstone project course provides you with hands on practical experience of an AI development project. The emphasis is on understanding and working within a corporate environment and integrating all the skills and knowledge that you have acquired from your previous courses into a solid base to progress from into your professional life. The capstone research course enables you to undertake a higher degree by research path, substituting the capstone project with a research minor thesis enabling your research career.
+The program is primarily delivered on campus. Some courses may be delivered online.
+Duration
+Study Load	Years	Months	Weeks
+Full-time
+2
+Learning and Assessment
+Program Learning Outcomes
+You are expected to develop the following Program Learning Outcomes:
+Enabling Knowledge (PLO1)
+You will gain skills as you apply knowledge with creativity and initiative to new situations. In doing so, you will:
+Demonstrate mastery of a body of knowledge that includes recent developments in Artificial Intelligence, Computer Science and Information Technology;
+Understand and use appropriate and relevant, fundamental and applied Artificial Intelligence knowledge, methodologies and modern computational tools;
+Recognise and use research principles and methods applicable to Artificial Intelligence.
+Critical Analysis (PLO2)
+You will learn to accurately and objectively examine, and critically investigate Computer Science, Information Technology (IT) and statistical concepts, evidence, theories or situations, in particular to:
+Analyse and model complex requirements and constraints for the purpose of designing and implementing software artefacts and IT systems;
+Evaluate and compare designs of software artefacts and IT systems based on organisational and user requirements;
+Bring together and flexibly apply knowledge to characterise, analyse and solve a wide range of Artificial Intelligence problems.
+Problem Solving (PLO3)
+Your capability to analyse complex problems and synthesise suitable solutions will be extended as you learn to:
+Design and implement software solutions that accommodate specified requirements and constraints, based on analysis or modelling or requirements specification;
+Apply an understanding of the balance between the complexity / accuracy of the Artificial Intelligence techniques used and the timeliness of the delivery of the solution.
+Communication (PLO4)
+You will learn to communicate effectively with a variety of audiences through a range of modes and media, in particular to:
+Interpret abstract theoretical propositions, choose methodologies, justify conclusions and defend professional decisions to both IT and non-IT personnel via technical reports of professional standard and technical presentations.
+Team Work (PLO5)
+You will learn to work as an effective and productive team member in a range of professional and social situations, in particular to:
+Work effectively in different roles, to form, manage, and successfully produce outcomes from collaborative teams, whose members may have diverse cultural backgrounds and life circumstances, and differing levels of technical expertise.
+Responsibility (PLO6)
+You will be required to accept responsibility for your own learning and make informed decisions about judging and adopting appropriate behaviour in professional and social situations. This includes accepting the responsibility for independent life-long learning and a high level of accountability. Specifically, you will learn to:
+Effectively apply relevant standards, ethical considerations, and an understanding of legal and privacy issues to designing Artificial Intelligence software, applications and IT systems;
+Reflect on experience and improve your own future practice;
+Locate and use data and information and evaluate its quality with respect to its authority and relevance.
+Research and Scholarship (PLO7)
+You will have technical and communication skills to design, evaluate, implement, analyse and theorise about developments that contribute to professional practice or scholarship, specifically you will have cognitive skills to:
+Demonstrate mastery of theoretical knowledge and to reflect critically on theory and professional practice or scholarship;
+Plan and execute a substantial research-based project, capstone experience and/or piece of scholarship.
+Approach to learning and assessment
+Your learning experiences will involve a broad mix of study modes, including lectures, tutorials, practical classes, studios, project work and seminars, using face-to-face, online, intensive, and other flexible delivery mechanisms.
+Assessment is designed to give you opportunities to demonstrate your capabilities. You will find that the forms of assessment used may be different for each course, depending on the course objectives and learning outcomes.
+Your assessment in this program will include all or some of the following:
+Timed Assessments: an individual form of assessment where you are asked to demonstrate your ability to explain principles and to solve problems;
+Assignments and projects: some will require you to demonstrate an ability to work alone, while some will involve group work requiring you to be part of a team with other students;
+Reflective journals: where you pause to consider what you have learnt and reflect on the further development of the related capability;
+Assessed tutorials or presentations: a form of in-class test which you will be required to complete either individually or as a team:
+Self-assessment and peer-assessment: for assessment activities such as seminars you may be asked to assess your own work, the work of your group, or the work of other groups. This is part of equipping you to become more independent in your own learning and to develop your assessment skills.
+Assessments you complete will enable the teaching staff to provide you with feedback on your progress. This will enable you to improve your performance in the future.
+If you have long-term medical condition, disability and/or other form of disadvantage it may be possible to negotiate to vary aspects of the learning or assessment methods. You should contact the Program Manager or Equitable Learning Services team for further information.
+Student expenses and charges (in addition to fees)
+Once you are enrolled as a student in this program you will need to allow for expenses other than university tuition fees. Additional expenses may relate to the purchase of lecture notes, textbooks, stationery, consumables such as printer paper, fees levied by commercial internet service providers for internet access outside of the university campus, and other relevant costs.
+Entry Requirements
+Entry requirements and admissions
+Program Entry Requirements:
+An Australian bachelor's degree or equivalent with a grade point average (GPA) of at least 2.0 out of 4.0, in one of the following disciplines: computing, science, engineering, health or statistics.
+OR
+You may also be considered if you have an Australian bachelor's degree or equivalent with a GPA of at least 2.0 out of 4.0 in another discipline and relevant completed higher education courses in programming and statistics or a minimum three years of current, relevant work experience or professional practice in programming and statistics or equivalent. These applications will be assessed on a case-by-case basis.
+English Language Requirements:
+English Language requirement: English IELTS language test score of 6.5 with no band less than 6.0 or equivalent, such as TOEFL (Paper based) = 580+ (TWE 4.5+), or TOEFL (Computer based) = 237+ (TWE 4.5+) or REW English for Academic Purposes Advanced 1&2
+Exit-only Offering
+No
+Pathways and Careers
+Articulation and pathways
+Articulation:
+Students with relevant studies in computer science, information technology, software engineering, data science, analytics or statistics will be eligible for advanced standing as follows:
+Qualification level
+Advanced Standing
+Remaining Program Duration
+Bachelor's degree
+Graduate Certificate
+(AQF Level 7 or
+equivalent)
+Up to 48 credit points (equivalent to one semester full time study) depending on the courses previously studied
+Minimum of 144 credit points
+(equivalent to three semesters full- time study)
+Bachelor's degree (Honours)
+Graduate Diploma
+Master
+PhD
+(AQF Level 8 or higher)
+Up to 96 credit points (equivalent to two semesters full time study)
+depending on the courses previously studied
+Minimum of 96 credit points
+(equivalent to two semesters full- time study)
+For example, students who have successfully completed BP094 Bachelor of Computer Science or BP096 Bachelor of Software Engineering degree from RMIT University will be granted 48 credit points of advanced standing. For all other students, advanced standing will be determined on a case-by-case basis.
+Pathways:
+Upon successful completion of this program, you may be eligible to undertake further studies in related programs at RMIT University, including MR221 Master of Computer Science (Research) and DR221 PhD in Computer Science, subject to each program's entry requirements.
+Work Integrated Learning/Industry Partnered Learning
+RMIT is committed to providing students with an education that strongly links formal learning with workplace experience. As a student enrolled in an RMIT program you will:
+undertake and be assessed on a structured activity that allows you to learn, apply and demonstrate your professional or vocational practice
+interact with industry and community when undertaking this activity
+complete an activity in a work context or situation that may include teamwork with other students from different disciplines.
+underpin your learning with feedback from interactions and contexts distinctive to workplace experiences.
+In this program, you will be doing specific courses that focus on work integrated learning (WIL). You will be assessed on professional work in a workplace setting and receive feedback from those involved in your industry. Any or all of these aspects of a WIL experience may be in a simulated workplace learning environment.
+COSC2777 Artificial Intelligence Postgraduate Project is a capstone course designed to provide you with hands-on practical experience. All your learning activities in this course are based on applying your AI knowledge in a process of planning and executing a substantial research-based project or industry-sponsored capstone project experience. The emphasis is on understanding and working within a corporate environment and integrating all the skills and knowledge that you have acquired from your previous courses into a solid base to progress from into your professional life. This course includes a Work Integrated Learning experience in which your knowledge and skills will be applied and assessed in a real or simulated workplace context and where feedback from industry and/ or community is integral to your experience.
+External accreditation and industry links
+External Accreditation
+The Master of Artificial Intelligence is conditionally provisionally accredited at a professional level by the Australian Computer Society, which accredits Information and Communication Technology related programs that are offered by Australian universities, both onshore and offshore.
+Industry Links
+Computer Science and Information Technology within the School of Computing Technologies has substantial links with ICT industry, both within Australia and internationally through Industry Advisory Committees (IACs), research projects, consulting, and industry-sponsored design projects. Membership of these committees includes industry executives and past graduates from the school. Industry involvement ensures that our programs remain relevant to your needs as a graduate and to the needs of graduate employers, by providing feedback on the currency of the program, and the changing needs of industry.
+Plan Structure
+To graduate you must complete the following. All courses listed may not be available each semester.
+Contact details for program or enrolment inquiries
+STEM College
+For any enquiries, please see our STEM College Student Lifecycle hub for contact information and support.
+https://www.rmit.edu.au/students/contact-and-help/school-and-college-contacts/stem-college
+Transition Plan
+Semester 1, 2025 Transition Plan
+Minor amendments have been made to your program effective semester 1, 2025. If you have completed any course that is now removed, your credit will still count towards your completion.
+Details of amendment:
+The following courses have a new course code with no change to course title or content:
+Course Title
+Old Course Code
+New Course Code
+Artificial Intelligence
+COSC1125
+COSC3117
+Algorithms and Analysis
+COSC1285
+COSC3119
+Agent-Oriented Programming and Design
+COSC2048
+COSC3123
+Evolutionary Computing
+COSC2033
+COSC3124
+Data Mining
+COSC2111
+COSC3125
+Computing Research and Project Preparation
+COSC2149
+COSC3130
+Database Systems
+COSC2407
+COSC3138
+iPhone Software Engineering
+COSC2472
+COSC3139
+Mixed Reality
+COSC2477
+COSC3140
+Games and Artificial Intelligence Techniques
+COSC2528
+COSC3144
+Transition Plan 2023
+Amendments to the program structure of the Master of Artificial Intelligence have been made, effective Semester 1 2023. The following shows courses that will be replaced from Semester 1 2023 for program transition purposes only and not necessarily course equivalents. If you have successfully completed any of these courses prior to the commencement of Semester 1 2023 they will continue to count as courses and contribute towards the successful completion of your program.
+Year One of Program:
+Prior to 2023
+Credit Points
+Replacement Courses
+Credit Points
+One Artificial Intelligence Option course
+12
+Two Program Option courses
+24
+One Information Technology Option course
+12
+Year Two of Program:
+Project Option - Prior to 2023
+Credit Points
+Replacement Courses
+Credit Points
+One Artificial Intelligence Option course
+12
+Two Program Option courses
+24
+One Information Technology Option course
+12
+and
+Research Option - Prior to 2023
+Credit Points
+Replacement Courses
+Credit Points
+COSC2389 Minor Thesis/ Project Part A
+24
+COSC2179 Minor Thesis / Project
+36
+One Artificial Intelligence Option course
+12
+and
+Program Options List:
+The Artificial Intelligence and Information Technology option lists have been replaced with one, merged Program Option List. Three courses are not included in the merged Program Option List, and have been removed from the program:
+COSC2642 Cloud Infrastructures
+COSC2347 Mobile Application and Development
+INTE2401 Cloud Security
+**IMPORTANT TRANSITION INFORMATION FOR 2021**
+MATH2319 Machine Learning has been removed from the structure and replaced with COSC2793 Computational Machine Learning. What does this mean?
+If you have previously completed MATH2319 Machine Learning, you will not be required to undertake COSC2793 Computational Machine Learning in the new program structure and will still receive credit for MATH2319 Machine Learning.
+If you did not successfully complete MATH2319 Machine Learning in 2020, you will be required to undertake COSC2793 Computational Machine Learning in its place.
+COSC2784 Discrete Structure in Computing has been removed from the structure and replaced with MATH2415 Discrete Mathematics. What does this mean?
+If you have previously completed COSC2784 Discrete Structure in Computing, you will not be required to undertake MATH2415 Discrete Mathematics in the new program structure and will still receive credit for COSC2784 Discrete Structure in Computing.
+If you did not successfully complete COSC2784 Discrete Structure in Computing in 2020, you will be required to undertake MATH2415 Discrete Mathematics in its place.
+Plan Schedules
+Year One of ProgramYear Two of ProgramProject/Research OptionsProgram Options
+Student Resources
+Library, IT and specialist resources
+Resources available from the Library
+As a student enrolled in a program at RMIT University you can access the extensive services, facilities and study space provided by the Library. You can access books, journals and other course-related materials, such as DVDs, past exams, newspapers and e-books. Through our document delivery service, you can also request items from any library in the world.
+Computers for study are available at every Library site, where you can access the Internet, myRMIT http://www.rmit.edu.au/myrmit or Library e-resources. If you have a laptop, you can access the RMIT wireless network in the Library.
+Library staff can show you how to find information for your assignments or you can work through web- based tutorials or use our online Ask a Librarian service.
+The Library is continually expanding our electronic collections to make it easier for you to get the information you need when you need it. All RMIT students have unlimited access to quality electronic resources such as e-books, e-journals and newspapers.
+You can find more information on Library resources and services at: http://www.rmit.edu.au/library including specific resources for computer science: http://rmit.libguides.com/compsci.
+Online learning tools and content
+As a student in this program, you may access online learning tools and content for your program and associated courses from the student portal, myRMIT http://www.rmit.edu.au/myrmit.
+Learning services available to you as a student at RMIT
+RMIT provides a wide range of resources and opportunities to assist your learning and wellbeing so you can achieve your study and career goals.
+Services are available face to face and online assisting with:
+transition to tertiary study and learning
+study skills, academic skills including literacy, mathematics and basic sciences if relevant
+enabling assistance if you have a disability, long term medical condition or other form of disadvantage which may impact on your learning
+career development and employment
+living and wellbeing (including advice on health, housing and financial matters)
+opportunities for scholarships, leadership and study abroad
+opportunities for participating in arts, sport, recreation, fitness activities as well as student activism and university governance
+We also offer a friendly and supportive environment for Aboriginal and Torres Strait Islander students. You can find more information at: https://www.rmit.edu.au/students/support-and-facilities/student-support/aboriginal-and-torres-strait-islander-students
+Details
+Academic Program
+MC271
+Award Title
+Master of Artificial Intelligence
+Level of Study
+Postgraduate
+Campus
+City Campus
+Location
+Onshore, City Campus
+College/School
+Computing Technologies
+Credit Points
+192
+ASCED Code
+020119
+CRICOS code
+0100716
+Internal reference: HE Plan MC271 - Master of Artificial Intelligence - V1.0 (Published: 2025-11-19)
+Logo
+Royal Melbourne Institute of Technology University Logo
+Footer Text
+Copyright © 2025 RMIT University | Terms | Privacy | Accessibility | Website feedback | Complaints | ABN 49 781 030 034 | CRICOS provider number: 00122A | TEQSA provider number: PRV12145 | RTO Code: 3046 | Open Universities Australia | RMIT Training Pty Ltd, trading as RMIT University Pathways (RMIT UP), CRICOS Provider Code: 01912G
+Footer Social
+facebook x instagram linkedin youtube weibo
+2.6
