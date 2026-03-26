@@ -86,4 +86,4 @@ askmyuni/
 
 ---
 
-*Built as part of RMIT Master of AI — 2025*
+*Built as part of RMIT Master of AI — 2026*
