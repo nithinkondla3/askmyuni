@@ -1,40 +1,53 @@
-import altair as alt
-import numpy as np
-import pandas as pd
 import streamlit as st
+from rag_chain import ask
 
-"""
-# Welcome to Streamlit!
+st.set_page_config(page_title="AskMyUni", page_icon="🎓")
+st.title("AskMyUni 🎓")
+st.caption("Ask questions about your RMIT course handbook")
+st.warning("⚠️ Always verify important info with RMIT official sources.")
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:.
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+# Initialize history
+if "messages" not in st.session_state:
+    st.session_state.messages = []
 
-In the meantime, below is an example of what you can do with just a few lines of code:
-"""
+if "last_pages" not in st.session_state:
+    st.session_state.last_pages = []
 
-num_points = st.slider("Number of points in spiral", 1, 10000, 1100)
-num_turns = st.slider("Number of turns in spiral", 1, 300, 31)
+# Clear button
+if st.button("Clear Chat"):
+    st.session_state.messages = []
+    st.session_state.last_pages = []
 
-indices = np.linspace(0, 1, num_points)
-theta = 2 * np.pi * num_turns * indices
-radius = indices
+# Display past messages
+for msg in st.session_state.messages:
+    with st.chat_message(msg["role"]):
+        st.write(msg["content"])
+        if msg.get("pages"):
+            st.caption(f"📄 Sources: PDF pages {msg['pages']}")
 
-x = radius * np.cos(theta)
-y = radius * np.sin(theta)
+# Sidebar
+with st.sidebar:
+    st.markdown("### 📄 Sources Used")
+    if st.session_state.last_pages:
+        for page in st.session_state.last_pages:
+            st.markdown(f"**RMIT Handbook** — *Page {page}*")
+    else:
+        st.caption("Ask a question to see sources!")
 
-df = pd.DataFrame({
-    "x": x,
-    "y": y,
-    "idx": indices,
-    "rand": np.random.randn(num_points),
-})
+# Handle new input
+user_input = st.chat_input("Type your question here...")
 
-st.altair_chart(alt.Chart(df, height=700, width=700)
-    .mark_point(filled=True)
-    .encode(
-        x=alt.X("x", axis=None),
-        y=alt.Y("y", axis=None),
-        color=alt.Color("idx", legend=None, scale=alt.Scale()),
-        size=alt.Size("rand", legend=None, scale=alt.Scale(range=[1, 150])),
-    ))
+if user_input:
+    with st.chat_message("user"):
+        st.write(user_input)
+    st.session_state.messages.append({"role": "user", "content": user_input})
+
+    with st.chat_message("assistant"):
+        with st.spinner("Searching handbook..."):
+            answer, pages = ask(user_input)
+        st.write(answer)
+        if pages:
+            st.caption(f"📄 Sources: PDF pages {pages}")
+
+    st.session_state.last_pages = pages
+    st.session_state.messages.append({"role": "assistant", "content": answer, "pages": pages})
