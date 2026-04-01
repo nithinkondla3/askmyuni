@@ -1,4 +1,4 @@
-﻿import os
+import os
 from dotenv import load_dotenv
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
@@ -12,7 +12,7 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 embeddings = OpenAIEmbeddings(openai_api_key=openai_api_key)
 
 db = FAISS.load_local(
-    "faiss_index",
+    "src/faiss_index",
     embeddings,
     allow_dangerous_deserialization=True
 )
