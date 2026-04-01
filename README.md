@@ -1,6 +1,6 @@
 ---
 title: Askmyuni
-emoji: rocket
+emoji: ??
 colorFrom: red
 colorTo: red
 sdk: docker
