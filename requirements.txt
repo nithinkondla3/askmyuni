@@ -1,3 +1,11 @@
-altair
-pandas
+langchain
+openai
+faiss-cpu
 streamlit
+pypdf
+tiktoken
+langchain-openai
+langchain-community
+python-dotenv
+pandas
+altair
