@@ -1,3 +1,4 @@
+<img width="1880" height="1064" alt="answer" src="https://github.com/user-attachments/assets/b8a991d3-b201-4587-9af5-5dd2490e025c" />
 ---
 title: Askmyuni
 colorFrom: red
@@ -34,7 +35,11 @@ PDF → Chunking (500 tokens) → OpenAI Embeddings → FAISS → GPT-4o-mini �
 - **Docker + Hugging Face Spaces** — deployment
 
 ## 📸 Screenshots
-<!-- Add screenshots here -->
+<img width="1880" height="1064" alt="answer" src="https://github.com/user-attachments/assets/217fd0bb-43f7-43da-9955-1268eebdd8e7" />
+ <img width="1903" height="1065" alt="homepage" src="https://github.com/user-attachments/assets/3797fc1b-9f6c-439a-a320-b9216c37b552" />
+ <img width="1911" height="1068" alt="sidebar" src="https://github.com/user-attachments/assets/56d79ebd-6d37-4bf4-92b7-a2bdcdabeed4" />
+
+
 
 ## 🚀 Run Locally
 git clone https://github.com/nithinkondla3/askmyuni
