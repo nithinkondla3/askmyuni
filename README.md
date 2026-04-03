@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 AskMyUni — RAG Chatbot for RMIT Students
 
 > Ask questions about RMIT's course handbook in plain English. Get instant, cited answers.
@@ -38,3 +39,16 @@ streamlit run app.py
 - "How many credit points do I need to graduate?"
 - "What is the late submission policy?"
 - "How do I apply for special consideration?"
+=======
+---
+title: Askmyuni
+colorFrom: red
+colorTo: red
+sdk: docker
+app_port: 8501
+pinned: false
+---
+
+# AskMyUni
+A RAG chatbot for RMIT students.
+>>>>>>> fe27e1c04e26aed5bed5865bbdb637927849217b
