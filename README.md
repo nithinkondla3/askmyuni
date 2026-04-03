@@ -1,89 +1,40 @@
-# AskMyUni 🎓
+# 🎓 AskMyUni — RAG Chatbot for RMIT Students
 
-A RAG-powered chatbot that answers RMIT student questions directly 
-from the official course handbook — built with LangChain, OpenAI, 
-FAISS, and Streamlit.
+> Ask questions about RMIT's course handbook in plain English. Get instant, cited answers.
 
----
-
-## 🔍 Problem
-
-RMIT students waste hours searching through long PDF handbooks to find 
-answers about credit points, course requirements, and enrolment rules. 
-AskMyUni gives instant, cited answers in plain English.
+🔗 **[Live Demo](https://huggingface.co/spaces/nithinkondla3/askmyuni)**
 
 ---
 
-## 💡 Solution
+## 🔴 The Problem
+RMIT's course handbook is 200+ pages. Students waste time searching
+for simple answers about credit points, deadlines, and policies.
 
-AskMyUni uses Retrieval-Augmented Generation (RAG) to search the 
-handbook semantically and answer questions with source citations — 
-so students can verify every answer.
-
----
+## ✅ The Solution
+AskMyUni uses RAG to retrieve only the relevant parts of the handbook
+and answer in plain English — with source citations so you can verify.
 
 ## 🏗️ Architecture
-```
-PDF Handbook → Chunking → Embeddings → FAISS Vector Store
-                                              ↓
-User Question → Semantic Search → Relevant Chunks → OpenAI LLM → Answer + Sources
-```
-
----
+PDF → Chunking (500 tokens) → OpenAI Embeddings → FAISS → GPT-4o-mini → Answer + Sources
 
 ## 🛠️ Tech Stack
+- **LangChain** — pipeline orchestration
+- **OpenAI GPT-4o-mini** — language model
+- **FAISS** — vector database
+- **Streamlit** — chat UI
+- **Docker + Hugging Face Spaces** — deployment
 
-- **LangChain** — RAG chain and document loading
-- **OpenAI** — Embeddings and answer generation  
-- **FAISS** — Local vector store for semantic search
-- **Streamlit** — Chat user interface
-- **PyPDF** — PDF parsing
-
----
-
-## 💬 Example
-
-**Q:** How many credit points do I need to graduate?  
-**A:** You need 144 credit points to complete the Master of AI program.  
-📄 *Source: RMIT Handbook, Page 3*
-
----
+## 📸 Screenshots
+<!-- Add screenshots here -->
 
 ## 🚀 Run Locally
-```bash
-# 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/askmyuni.git
+git clone https://github.com/nithinkondla3/askmyuni
 cd askmyuni
-
-# 2. Create virtual environment
-python -m venv venv
-venv\Scripts\activate        # Windows
-source venv/bin/activate     # Mac/Linux
-
-# 3. Install dependencies
 pip install -r requirements.txt
-
-# 4. Add your API key
 cp .env.example .env
-# Open .env and add your OPENAI_API_KEY
-
-# 5. Run the app
 streamlit run app.py
-```
 
----
-
-## 📁 Project Structure
-```
-askmyuni/
-├── loader.py          # PDF loading and chunking
-├── embedder.py        # Embedding creation and FAISS storage
-├── rag_chain.py       # RetrievalQA chain
-├── app.py             # Streamlit UI
-├── requirements.txt
-└── .env.example
-```
-
----
-
-*Built as part of RMIT Master of AI — 2026*
+## 💬 Example Questions
+- "How many credit points do I need to graduate?"
+- "What is the late submission policy?"
+- "How do I apply for special consideration?"
