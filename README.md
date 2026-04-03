@@ -1,4 +1,4 @@
-<img width="1880" height="1064" alt="answer" src="https://github.com/user-attachments/assets/b8a991d3-b201-4587-9af5-5dd2490e025c" />
+
 ---
 title: Askmyuni
 colorFrom: red
