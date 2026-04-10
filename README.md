@@ -33,7 +33,7 @@ PDF → Chunking (500 tokens) → OpenAI Embeddings → FAISS → GPT-4o-mini �
 - **FAISS** — vector database
 - **Streamlit** — chat UI
 - **Docker + Hugging Face Spaces** — deployment
-
+- **LangSmith** — observability and query tracing
 
 
 ## 📊 Evaluation Results (RAGAS)
@@ -47,6 +47,20 @@ Evaluated on 20 test questions using the RAGAS framework.
 | Context Recall | 0.88 |
 
 Evaluated using `ragas` on 20 hand-crafted Q&A pairs from the RMIT Master of AI handbook.
+
+
+
+## 🔍 Observability & Tracing
+
+Integrated LangSmith tracing to monitor every query in real time.
+
+| Component | Latency |
+|-----------|---------|
+| FAISS Vector Retrieval | ~0.24s |
+| OpenAI LLM Call | ~0.96s–2.30s |
+| **Bottleneck** | LLM call, not retrieval |
+
+![LangSmith Trace Dashboard](assets/langsmith_trace_dashboard.png)
 
 ## 📸 Screenshots
 <img width="1880" height="1064" alt="answer" src="https://github.com/user-attachments/assets/217fd0bb-43f7-43da-9955-1268eebdd8e7" />
