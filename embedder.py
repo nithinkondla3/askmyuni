@@ -26,3 +26,26 @@ def load_vectorstore(save_path="faiss_index"):
     )
     print(f"Vector store loaded from '{save_path}'")
     return vectorstore
+
+
+
+
+if __name__ == "__main__":
+    from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+    with open("rmit_context.txt", "r", encoding="utf-8") as f:
+        raw = f.read()
+
+    start = raw.find("Purpose of the Program")
+    text = raw[start:]
+
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=1200,
+        chunk_overlap=100
+    )
+    chunks = splitter.create_documents([text])
+    print(f"Total chunks: {len(chunks)}")
+
+    vectorstore = create_and_save_vectorstore(chunks, save_path="faiss_index")
+    vectorstore.save_local("src/faiss_index")
+    print("Done! Both indexes rebuilt.")

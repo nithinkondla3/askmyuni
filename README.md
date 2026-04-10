@@ -34,6 +34,20 @@ PDF → Chunking (500 tokens) → OpenAI Embeddings → FAISS → GPT-4o-mini �
 - **Streamlit** — chat UI
 - **Docker + Hugging Face Spaces** — deployment
 
+
+
+## 📊 Evaluation Results (RAGAS)
+
+Evaluated on 20 test questions using the RAGAS framework.
+
+| Metric | Score |
+|--------|-------|
+| Faithfulness | 0.98 |
+| Answer Relevancy | 0.92 |
+| Context Recall | 0.88 |
+
+Evaluated using `ragas` on 20 hand-crafted Q&A pairs from the RMIT Master of AI handbook.
+
 ## 📸 Screenshots
 <img width="1880" height="1064" alt="answer" src="https://github.com/user-attachments/assets/217fd0bb-43f7-43da-9955-1268eebdd8e7" />
  <img width="1903" height="1065" alt="homepage" src="https://github.com/user-attachments/assets/3797fc1b-9f6c-439a-a320-b9216c37b552" />
