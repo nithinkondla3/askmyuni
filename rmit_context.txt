@@ -265,3 +265,86 @@ Copyright © 2025 RMIT University | Terms | Privacy | Accessibility | Website fe
 Footer Social
 facebook x instagram linkedin youtube weibo
 2.6
+
+
+
+
+TUITION FEES
+Domestic students: Approximately AUD $17,280 per year (full-time).
+International students: Approximately AUD $40,320 per year (full-time).
+Total program cost for international students: approximately AUD $80,640 for 2 years full-time.
+Fees are reviewed annually. Check the RMIT fees page for current amounts:
+https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters/master-of-artificial-intelligence-mc271/fees
+
+SCHOLARSHIPS
+RMIT offers a range of scholarships for postgraduate students including:
+- RMIT University Postgraduate Research Scholarship
+- RMIT International Excellence Scholarship
+- Australian Government Research Training Program (RTP) Scholarship
+- Various industry-sponsored scholarships
+Check the RMIT scholarships page: https://www.rmit.edu.au/students/student-essentials/scholarships
+
+APPLICATION DEADLINES AND INTAKE DATES
+The Master of AI at RMIT has two main intakes per year:
+- Semester 1: Starts February/March. Applications typically close November/December prior.
+- Semester 2: Starts July/August. Applications typically close April/May.
+International students should apply at least 3 months before the intake start date.
+Check current dates: https://www.rmit.edu.au/study-with-us/applying-to-rmit/local-applications/key-dates
+
+PROGRAMMING LANGUAGES
+The Master of AI at RMIT primarily teaches:
+- Python (used across most AI and machine learning courses)
+- Java (used in algorithm and software engineering courses)
+- SQL (used in database and data mining courses)
+- R (used in some statistics and data analysis courses)
+Students also use tools and frameworks including TensorFlow, PyTorch, scikit-learn, and LangChain.
+
+CORE COURSES
+The Master of AI (MC271) includes the following core courses:
+- COSC3117 Artificial Intelligence
+- COSC3119 Algorithms and Analysis
+- COSC2793 Computational Machine Learning
+- MATH2415 Discrete Mathematics
+- COSC2779 Deep Learning
+- COSC3125 Data Mining
+- COSC3138 Database Systems
+- COSC2777 Artificial Intelligence Postgraduate Project (Capstone)
+
+ELECTIVE / PROGRAM OPTION COURSES
+Students choose electives from the Program Options list including:
+- COSC3123 Agent-Oriented Programming and Design
+- COSC3124 Evolutionary Computing
+- COSC3140 Mixed Reality
+- COSC3144 Games and Artificial Intelligence Techniques
+- COSC2472 iPhone Software Engineering (now COSC3139)
+- COSC2477 Mixed Reality (now COSC3140)
+- COSC3130 Computing Research and Project Preparation
+- Natural Language Processing
+- Computer Vision
+- Robotics
+
+CAREER OUTCOMES
+Graduates of the Master of AI at RMIT can pursue careers including:
+- AI Engineer
+- Machine Learning Engineer
+- Data Scientist
+- Business Intelligence Developer
+- Research Scientist
+- Web Analyst
+- AI Consultant
+- NLP Engineer
+The program is accredited by the Australian Computer Society (ACS) at a professional level.
+
+PART-TIME STUDY
+Yes, the Master of AI can be studied part-time. Part-time duration is typically 4 years.
+Full-time duration is 2 years (192 credit points).
+
+INTERNATIONAL STUDENTS
+Yes, international students can apply. The program has a CRICOS code of 0100716.
+Campus: City Campus, Melbourne (onshore delivery).
+International students must meet English language requirements (IELTS 6.5, no band below 6.0).
+
+ACCREDITATION
+The Master of Artificial Intelligence is conditionally provisionally accredited at a professional level 
+by the Australian Computer Society (ACS). ACS accredits ICT-related programs offered by Australian 
+universities both onshore and offshore.
