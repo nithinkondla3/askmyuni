@@ -15,11 +15,11 @@ AskMyUni uses RAG to retrieve only the relevant parts of the handbook
 and answer in plain English — with source citations so you can verify.
 
 ## 🏗️ Architecture
-PDF → Chunking (500 tokens) → OpenAI Embeddings → FAISS → GPT-4o-mini → Answer + Sources
+PDF → Chunking (500 tokens) → OpenAI Embeddings → FAISS → gpt-3.5-turbo → Answer + Sources
 
 ## 🛠️ Tech Stack
 - **LangChain** — pipeline orchestration
-- **OpenAI GPT-4o-mini** — language model
+- **OpenAI gpt-3.5-turbo** — language model
 - **FAISS** — vector database
 - **Streamlit** — chat UI
 - **Docker + Hugging Face Spaces** — deployment
