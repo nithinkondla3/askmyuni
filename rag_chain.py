@@ -1,4 +1,5 @@
 ﻿import os
+import time
 from dotenv import load_dotenv
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
@@ -37,13 +38,31 @@ Answer:""")
 def format_docs(docs):
     return "\n\n".join(doc.page_content for doc in docs)
 
+
+
 def ask(question):
+    total_start = time.time()
+
+    # Step 1 — Retrieval
+    retrieval_start = time.time()
     docs = retriever.invoke(question)
+    retrieval_time = time.time() - retrieval_start
+
     context = format_docs(docs)
+
+    # Step 2 — LLM call
+    llm_start = time.time()
     answer = (prompt | llm | StrOutputParser()).invoke({
         "context": context,
         "question": question
     })
+    llm_time = time.time() - llm_start
+
+    total_time = time.time() - total_start
+
+    # Log it
+    print(f"[latency] retrieval: {retrieval_time:.2f}s | llm: {llm_time:.2f}s | total: {total_time:.2f}s")
+
     pages = sorted(set(
         doc.metadata.get("page", 0) + 1 for doc in docs
     ))
