@@ -1,8 +1,8 @@
 # 🎓 AskMyUni — RAG Chatbot for RMIT Students
-
 > Ask questions about RMIT's course handbook in plain English. Get instant, cited answers.
 
 🔗 **[Live Demo](https://huggingface.co/spaces/nithinkondla3/askmyuni)**
+🔗 **[Live API](https://askmyuni.onrender.com)**
 
 ---
 
@@ -15,24 +15,38 @@ AskMyUni uses RAG to retrieve only the relevant parts of the handbook
 and answer in plain English — with source citations so you can verify.
 
 ## 🏗️ Architecture
-PDF → Chunking (500 tokens) → OpenAI Embeddings → FAISS → gpt-3.5-turbo → Answer + Sources
+PDF → Chunking (500 tokens) → OpenAI Embeddings → FAISS → FastAPI → Docker → Render
+
+## 📊 Evaluation Results
+Evaluated using RAGAS framework:
+- **Faithfulness:** measures if the answer is grounded in the retrieved context
+- **Answer Relevance:** measures if the answer addresses the question
 
 ## 🛠️ Tech Stack
 - **LangChain** — pipeline orchestration
 - **OpenAI gpt-3.5-turbo** — language model
 - **FAISS** — vector database
+- **FastAPI** — production API backend
 - **Streamlit** — chat UI
-- **Docker + Hugging Face Spaces** — deployment
-
-## 📸 Screenshots
-<!-- Add screenshots here -->
+- **Docker** — containerisation
+- **Render** — cloud deployment
+- **GitHub Actions** — CI/CD
+- **RAGAS** — evaluation framework
 
 ## 🚀 Run Locally
 git clone https://github.com/nithinkondla3/askmyuni
 cd askmyuni
 pip install -r requirements.txt
 cp .env.example .env
-streamlit run app.py
+docker-compose up
+
+## 🔗 API Usage
+POST https://askmyuni.onrender.com/query
+Content-Type: application/json
+
+{
+  "question": "How many credit points do I need to graduate?"
+}
 
 ## 💬 Example Questions
 - "How many credit points do I need to graduate?"
