@@ -15,7 +15,7 @@ AskMyUni uses RAG to retrieve only the relevant parts of the handbook
 and answer in plain English — with source citations so you can verify.
 
 ## 🏗️ Architecture
-PDF → Chunking (500 tokens) → OpenAI Embeddings → FAISS → FastAPI → Docker → Render
+![AskMyUni Architecture](architecture.png)
 
 ## 📊 Evaluation Results
 Evaluated using RAGAS framework:
